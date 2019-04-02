@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="n1">
+        <item>Element 11</item>
+        <item>Element 12</item>
+        <item>Element 13</item>
+    </array>
+
+    <array name="n2">
+        <item>Element 21</item>
+        <item>Element 22</item>
+        <item>Element 23</item>
+        <item>Element 24</item>
+    </array>
+</resources>
